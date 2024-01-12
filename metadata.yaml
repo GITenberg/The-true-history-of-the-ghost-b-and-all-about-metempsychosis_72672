@@ -1,0 +1,32 @@
+_repo: The-true-history-of-the-ghost-b-and-all-about-metempsychosis_72672
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pepper, John Henry
+    aliases:
+    - Pepper, J. H. (John Henry)
+    - Pepper, Professor (John Henry)
+    birthdate: 1821
+    deathdate: 1900
+    gutenberg_agent_id: '41389'
+    url: http://www.gutenberg.org/2009/agents/41389
+description: ''
+gutenberg_issued: '2024-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72672'
+language: en
+pgterms:marc904: https://archive.org/details/truehistoryofgho00pepp
+pgterms:marc905: 20230916111323pepper
+pgterms:marc906: '1890'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bCassell & Company, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The true history of the ghost : $b and all about metempsychosis'
+url: http://www.gutenberg.org/ebooks/72672
