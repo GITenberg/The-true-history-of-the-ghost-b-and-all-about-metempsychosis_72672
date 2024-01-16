@@ -1,5 +1,8 @@
 _repo: The-true-history-of-the-ghost-b-and-all-about-metempsychosis_72672
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72672-h/images/cover.jpg
 creator:
   author:
     agent_name: Pepper, John Henry
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '41389'
     url: http://www.gutenberg.org/2009/agents/41389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72672#The-true-history-of-the-ghost-b-and-all-about-metempsychosis
 gutenberg_issued: '2024-01-09'
 gutenberg_type: Text
 identifiers:
